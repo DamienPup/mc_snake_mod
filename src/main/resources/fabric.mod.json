@@ -9,9 +9,9 @@
     "DamienPup"
   ],
   "contact": {
-    "homepage": "",
-    "sources": "",
-    "issues": ""
+    "homepage": "https://github.com/DamienPup/mc_snake_mod",
+    "sources": "https://github.com/DamienPup/mc_snake_mod/releases",
+    "issues": "https://github.com/DamienPup/mc_snake_mod/issues"
   },
 
   "license": "GPL-3.0",
