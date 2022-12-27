@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.gmail.s154095g.dp_snake.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "AntiDropMixin",
+    "EndGameOnDeathMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "item.dp_snake.snake_north": "North",
+    "item.dp_snake.snake_east": "East",
+    "item.dp_snake.snake_south": "South",
+    "item.dp_snake.snake_west": "West",
+    "command.dp_snake.snake.stop.failed": "You're not currently playing a game of snake!"
+}
